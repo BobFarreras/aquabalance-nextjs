@@ -168,7 +168,7 @@ export default function HomePage() {
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 0.8 }} viewport={{ once: true }}>
               <h3 className="text-2xl md:text-5xl font-bold text-gray-900 mb-5">{t('productsPreview.kangenTitle')}</h3>
               <p className="text-gray-600 mb-6 md:text-3xl">{t('productsPreview.kangenDescription')}</p>
-              <Button asChild className="water-gradient text-white">
+              <Button asChild className="bg-gradient-to-r from-teal-400 to-blue-500  text-white">
                 <Link href="/aigua-kangen">{t('productsPreview.discoverMore')} <ArrowRight className="ml-2 w-4 h-4" /></Link>
               </Button>
             </motion.div>
@@ -181,7 +181,7 @@ export default function HomePage() {
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 0.8 }} viewport={{ once: true }} className="md:order-last">
               <h3 className="text-2xl md:text-5xl font-bold text-gray-900 mb-4">{t('productsPreview.anespaTitle')}</h3>
               <p className="text-gray-600 mb-6 md:text-3xl text-lg">{t('productsPreview.anespaDescription')}</p>
-              <Button asChild className="water-gradient text-white">
+              <Button asChild className="bg-gradient-to-r from-teal-400 to-blue-500  text-white">
                 <Link href="/dutxa-anespa">{t('productsPreview.discoverMore')} <ArrowRight className="ml-2 w-4 h-4" /></Link>
               </Button>
             </motion.div>
@@ -197,7 +197,7 @@ export default function HomePage() {
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} transition={{ duration: 0.8 }} viewport={{ once: true }}>
               <h3 className="text-2xl md:text-5xl font-bold text-gray-900 mb-5">{t('productsPreview.emGuardeTitle')}</h3>
               <p className="text-gray-600 mb-6 md:text-3xl text-lg">{t('productsPreview.emGuardeDescription')}</p>
-              <Button asChild className="water-gradient text-white">
+              <Button asChild className="bg-gradient-to-r from-teal-400 to-blue-500  text-white">
                 <Link href="/emguarde">{t('productsPreview.discoverMore')} <ArrowRight className="ml-2 w-4 h-4" /></Link>
               </Button>
             </motion.div>
