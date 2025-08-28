@@ -1,0 +1,449 @@
+{
+  
+    "nav": {
+      "home": "Inici",
+      "kangen": "Leveluk k8",
+      "anespa": "Anespa DX",
+      "emGuarde": "emGuarde",
+      "benefits": "Beneficis",
+      "contact": "Contacte"
+    },
+    "helmet": {
+      "title": "Aquabalance - Pura, Saludable, Vital",
+      "description": "Descobreix com la tecnologia d'ionització d'aigua d'Aquabalance pot millorar la teva salut, benestar i llar."
+    },
+    "hero": {
+      "title1": "Canvia la teva aigua.",
+      "title2": "Canvia la teva vida.",
+      "subtitle1": "Jo també volia tenir més energia i salut, no només per mi, sinó per cuidar millor els de casa.",
+      "subtitle2": "A Aquabalance trobaràs demostracions personalitzades, acompanyament sincer i els millors sistemes d’aigua Kangen® i protecció constant contra la radiació electromagnètica, tot per cuidar-te des del primer dia.",
+      "productsBtn": "Veure Productes",
+      "demoBtn": "Demana una Demo",
+      "heroImageAlt": "Dona sostenint un got d'aigua pura amb un somriure"
+    },
+    "productsPreview": {
+      "title": "Els nostres productes estrella",
+      "subtitle": "Tecnologia japonesa d'Enagic per transformar la teva aigua i la teva experiència de benestar.",
+      "kangenTitle": "Ionitzadors d'Aigua Kangen®",
+      "kangenDescription": "Transforma l'aigua corrent en 5 tipus d'aigua amb propietats úniques. Aigua alcalina, antioxidant i rica en hidrogen per a la teva salut.",
+      "anespaTitle": "Sistema de Dutxa ANESPA®",
+      "anespaDescription": "Converteix la teva dutxa en una experiència de spa. Filtra el clor i afegeix minerals naturals per a una pell i cabell saludables.",
+      "emGuardeTitle": "emGuarde",
+      "emGuardeDescription": "Equilibri i protecció davant la contaminació electromagnètica. EmGuarde actua com un escut protector davant les ones electromagnètiques de mitjana i alta freqüència, ajudant-te a mantenir l’harmonia natural del teu entorn i del teu cos.",
+      "discoverMore": "Descobreix-ne més",
+      "kangenImageAlt": "Ionizador de agua Kangen sobre una encimera de cocina moderna",
+      "anespaImageAlt": "Sistema de ducha ANESPA instalado en un baño elegante",
+      "anespaDetailAlt": "Detalle de minerales y agua pura, simbolizando la filtración de ANESPA",
+      "emGuardImageAlt": "Sistema de protecció davant la contaminació electromagnètica"
+    },
+    "testimonial": {
+        "title": "Què diuen de nosaltres",
+        "subtitle": "Experiències reals de persones que han transformat la seva vida.",
+        "list": [
+          {
+            "quote": "L'aigua de la dutxa ANESPA és increïble. La meva pell està molt més suau i el meu cabell ja no està tan sec. És com tenir un spa a casa cada dia.",
+            "author": "Marc R., Barcelona",
+            "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+          },
+          {
+            "quote": "Des que fem servir l’aigua d’Aquabalance a casa, hem notat un canvi molt positiu. Jo patia psoriasi i ara ha millorat moltíssim, cosa que em fa sentir segura i feliç.",
+            "author": "Laura A.P i família, Girona",
+            "avatar": "https://res.cloudinary.com/dvqhfapep/image/upload/v1749389543/samples/upscale-face-1.jpg"
+          },
+          {
+            "quote": "Al principi era escèptic, però la demostració em va convèncer. L'aigua no només té millor gust, sinó que em sento més hidratat durant tot el dia. Molt recomanable.",
+            "author": "Carla G., Tarragona",
+            "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+          }
+        ]
+    },
+    "kangenPage": {
+    "helmet": {
+      "title": "Ionitzadors d'Aigua Kangen® - Aquabalance",
+      "description": "Descobreix els ionitzadors d'aigua Kangen d'Enagic. 5 tipus d'aigua amb propietats úniques per a la salut, bellesa i neteja."
+    },
+
+    "hero": {
+      "title": "Ionitzadors d'Aigua",
+      "subtitle": "Tecnologia japonesa d'electròlisi que transforma l'aigua corrent en 5 tipus d'aigua amb propietats úniques per a la salut, bellesa i neteja.",
+      "imageAlt": "Ionitzador d'aigua Kangen instal·lat a la cuina",
+      "buyButton": "Sol·licita una Demo"
+      
+    },
+    "waterTypes": {
+      "title": "5 Tipus d'Aigua, Infinites Possibilitats",
+      "subtitle": "Cada tipus d'aigua té propietats específiques i usos únics per millorar la teva salut, bellesa i vida quotidiana.",
+      "usesLabel": "Usos principals:",
+      "list": [
+        {
+          "name": "Aigua Kangen® (pH 8.5-9.5)",
+          "color": "bg-blue-500",
+          "description": "Aigua alcalina per beure diàriament. Rica en hidrogen i antioxidants.",
+          "uses": ["Beure", "Cuinar", "Preparar te i cafè"]
+        },
+        {
+          "name": "Aigua Neutra (pH 7.0)",
+          "color": "bg-green-500",
+          "description": "Aigua pura per a medicaments i alimentació de nadons.",
+          "uses": ["Medicaments", "Alimentació infantil"]
+        },
+        {
+          "name": "Aigua de Bellesa (pH 4.0-6.0)",
+          "color": "bg-yellow-500",
+          "description": "Aigua àcida suau per a la cura de la pell i el cabell.",
+          "uses": ["Cura facial", "Cabell", "Plantes"]
+        },
+        {
+          "name": "Aigua Forta Kangen® (pH 11.0+)",
+          "color": "bg-purple-500",
+          "description": "Aigua alcalina forta per a neteja sense químics.",
+          "uses": ["Neteja", "Desgreixar", "Fruites i verdures"]
+        },
+        {
+          "name": "Aigua Àcida Forta (pH 2.5)",
+          "color": "bg-red-500",
+          "description": "Aigua àcida per a desinfecció i higiene.",
+          "uses": ["Desinfecció", "Higiene", "Neteja profunda"]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Com la tecnologia transforma la teva aigua",
+      "subtitle": "El procés d'ionització d'Enagic és una obra d'enginyeria japonesa dissenyada per enriquir la teva aigua en tres passos clau.",
+      "imageAlt": "Diagrama del procés d'electròlisi de l'aigua Kangen",
+      "steps": [
+        {
+          "title": "1. Electròlisi Potenciada",
+          "description": "L'aigua travessa plaques de titani de grau mèdic recobertes de platí, separant-la en corrents alcalins i àcids i activant les seves propietats."
+        },
+        {
+          "title": "2. Enriquiment amb Hidrogen",
+          "description": "Durant l'electròlisi es genera hidrogen molecular (H₂), un potent antioxidant que ajuda a neutralitzar els radicals lliures del teu cos."
+        },
+        {
+          "title": "3. Micro-estructuració",
+          "description": "El procés redueix la mida dels cúmuls de molècules d'aigua, facilitant una hidratació més ràpida i eficient a nivell cel·lular."
+        }
+      ]
+    }
+  },
+  "anespaPage": {
+    "helmet": {
+      "title": "Sistema de Dutxa ANESPA® - Aquabalance",
+      "description": "Descobreix el sistema de dutxa ANESPA d'Enagic. Transforma la teva dutxa en una experiència de spa amb minerals naturals japonesos."
+    },
+    "hero": {
+      "title": "Sistema de Dutxa",
+      "subtitle": "Transforma la teva dutxa diària en una experiència de balneari japonès. Filtra el clor i afegeix minerals naturals per a una pell i cabell saludables.",
+      "buyButton": "Sol·licita informació",
+      "infoButton": "Sol·licita informació",
+      "imageAlt": "Sistema de dutxa ANESPA en un bany modern i elegant"
+    },
+    "benefits": {
+      "title": "Beneficis del Sistema ANESPA®",
+      "subtitle": "Descobreix com ANESPA pot transformar la teva rutina de bany en un moment de cura personal i relaxació profunda.",
+      "list": [
+        { "title": "Pell Profundament Hidratada", "description": "Els minerals naturals penetren profundament, deixant la pell suau i sedosa." },
+        { "title": "Cabell Brillant i Sa", "description": "Elimina la sequera i dona brillantor natural al cabell." },
+        { "title": "Eliminació del Clor", "description": "Filtra el 100% del clor i altres químics nocius de l'aigua." },
+        { "title": "Experiència de Spa", "description": "Converteix la dutxa diària en un moment de relaxació i benestar." }
+      ]
+    },
+    "howItWorks": {
+      "title": "Com funciona ANESPA?",
+      "subtitle": "Tecnologia japonesa avançada que combina filtratge superior amb minerals naturals de fonts termals.",
+      "imageAlt": "Diagrama del funcionament del sistema ANESPA",
+      "steps": [
+        { "title": "Filtratge Avançat", "description": "Elimina el 100% del clor i altres impureses de l'aigua del bany." },
+        { "title": "Mineralització Natural", "description": "Afegeix minerals naturals de fonts termals japoneses a l'aigua." },
+        { "title": "Ionització", "description": "Crea aigua mineral ionitzada que penetra millor en la pell i el cabell." }
+      ]
+    },
+    "features": {
+      "title": "Característiques principals",
+      "subtitle": "ANESPA està dissenyat per oferir la màxima qualitat i comoditat en la teva experiència de dutxa diària.",
+      "imageAlt": "Persona gaudint d'una dutxa amb sistema ANESPA",
+      "list": [
+        "Minerals de fonts termals japoneses",
+        "Filtratge avançat d'impureses",
+        "Instal·lació fàcil i ràpida",
+        "Manteniment mínim",
+        "Apte per a tota la família",
+        "Ideal per a pells sensibles"
+      ]
+    },
+    "testimonial": {
+      "title": "Ideal per a pells sensibles",
+      "quote": "\"Des que utilitzo ANESPA, la meva pell amb èczema ha millorat notablement. L'aigua sense clor i amb minerals naturals ha fet una diferència increïble. Ara la dutxa és el meu moment favorit del dia.\"",
+      "author": "Maria González",
+      "role": "Usuària ANESPA",
+      "imageAlt": "Testimoni d'usuària satisfeta amb ANESPA"
+    },
+    "cta": {
+      "title": "Transforma la teva dutxa avui",
+      "subtitle": "Experimenta la diferència d'una dutxa amb minerals naturals japonesos. La teva pell i el teu cabell t'ho agrairan."
+    }
+  },
+  "benefitsPage": {
+    "helmet": {
+      "title": "Beneficis per a la Salut i Bellesa - Aquabalance",
+      "description": "Descobreix els beneficis de l'aigua Kangen i el sistema ANESPA per a la salut, bellesa i esport. Ideal per a famílies, esportistes i pells sensibles."
+    },
+    "hero": {
+      "title1": "Beneficis per a la",
+      "title_health": "Salut",
+      "title2": ", la",
+      "title_beauty": "Bellesa",
+      "title3": " i l'",
+      "title_sports": "Esport",
+      "subtitle": "Descobreix com la tecnologia Enagic pot transformar la teva vida quotidiana amb beneficis científicament provats per a tot el cos."
+    },
+    "health": {
+      "title": "Beneficis per a la Salut",
+      "subtitle": "L'aigua Kangen ofereix propietats úniques que contribueixen al benestar general i la prevenció de malalties.",
+      "list": [
+        { "title": "Salut Cardiovascular", "description": "L'aigua alcalina ajuda a millorar la circulació i reduir la pressió arterial." },
+        { "title": "Sistema Immunològic", "description": "Els antioxidants naturals reforcen les defenses del cos contra malalties." },
+        { "title": "Energia i Vitalitat", "description": "Millor hidratació cel·lular que es tradueix en més energia durant el dia." }
+      ],
+      "extraInfo": {
+        "title": "Propietats Antioxidants",
+        "description": "L'aigua Kangen conté hidrogen molecular actiu que actua com un potent antioxidant natural, neutralitzant els radicals lliures responsables de l'envelliment cel·lular i diverses malalties.",
+        "points": ["Neutralitza radicals lliures", "Retarda l'envelliment cel·lular", "Millora la funció cel·lular"],
+        "imageAlt": "Diagrama dels antioxidants en l'aigua Kangen"
+      }
+    },
+    "beauty": {
+      "title": "Beneficis per a la Bellesa",
+      "subtitle": "El sistema ANESPA i l'aigua de bellesa Kangen ofereixen cura natural per a la pell i el cabell.",
+      "list": [
+        { "title": "Pell Radiant", "description": "Hidratació profunda que redueix signes d'envelliment i millora l'elasticitat." },
+        { "title": "Cabell Saludable", "description": "Eliminació del clor que deixa el cabell més suau, brillant i manejable." },
+        { "title": "Protecció Natural", "description": "Minerals naturals que protegeixen la pell dels agents externs nocius." }
+      ],
+      "extraInfo": {
+        "title1": "Abans i Després",
+        "description1": "Els usuaris d'ANESPA experimenten canvis visibles en la seva pell i cabell en poques setmanes d'ús regular.",
+        "imageAlt1": "Comparació abans i després d'usar ANESPA",
+        "title2": "Testimonis Reals",
+        "testimonials": [
+          { "quote": "\"La meva pell mai havia estat tan suau. L'èczema ha desaparegut completament.\"", "author": "- Anna M." },
+          { "quote": "\"El meu cabell té una brillantor natural que mai havia tingut abans.\"", "author": "- Carla R." }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Beneficis per a l'Esport",
+      "subtitle": "Els esportistes professionals i amateurs descobreixen avantatges significatius en el rendiment i la recuperació.",
+      "list": [
+        { "title": "Recuperació Ràpida", "description": "L'aigua alcalina ajuda a neutralitzar l'àcid làctic després de l'exercici." },
+        { "title": "Hidratació Superior", "description": "Molècules més petites per una absorció més ràpida i eficient." },
+        { "title": "Rendiment Millorat", "description": "Millor oxigenació cel·lular que augmenta la resistència i força." }
+      ],
+      "extraInfo": {
+        "title": "Utilitzat per Esportistes Professionals",
+        "description": "Molts atletes d'elit utilitzen aigua Kangen per millorar el seu rendiment i accelerar la recuperació després de l'entrenament.",
+        "points": ["Hidratació 6 vegades més eficient", "Reducció del temps de recuperació", "Millor resistència i força"],
+        "imageAlt": "Esportista professional bevent aigua Kangen"
+      }
+    },
+    "audience": {
+      "title": "Per a qui és ideal?",
+      "subtitle": "Els nostres productes beneficien una àmplia varietat de persones i necessitats específiques.",
+      "list": [
+        { "title": "Famílies", "description": "Aigua pura i saludable per a tots els membres de la família, des de nadons fins a gent gran." },
+        { "title": "Esportistes", "description": "Hidratació superior i recuperació més ràpida per millorar el rendiment esportiu." },
+        { "title": "Pells Sensibles", "description": "Ideal per a persones amb èczemes, psoriasi o altres problemes dermatològics." },
+        { "title": "Professionals de la Salut", "description": "Recomanat per metges i terapeutes per als seus beneficis terapèutics." }
+      ]
+    },
+    "cta": {
+      "pretitle": "Un pas cap al teu benestar",
+      "title": "Preparat/da per sentir la diferència?",
+      "description": "Sol·licita una demostració gratuïta i sense compromís. T'explicaré personalment com pots millorar la teva salut, bellesa i llar amb l'aigua adequada.",
+      "button": "Demana més informació",
+      "imageAlt": "Persona somrient oferint una demostració de producte"
+    }
+  },
+  "contactPage": {
+    "helmet": {
+      "title": "Contacte - Aquabalance",
+      "description": "Contacta amb nosaltres per a una demostració gratuïta, informació de productes o qualsevol altra consulta. Estem aquí per ajudar-te."
+    },
+    "hero": {
+      "title": "Contacta amb ",
+      "subtitle": "Estem aquí per ajudar-te a trobar la solució perfecta per a la teva aigua. Sol·licita una demostració gratuïta o resol els teus dubtes.",
+      "nosaltres":"Nosaltres"
+    },
+    "info": {
+      "list": [
+        { "title": "Telèfon", "content": "+34 600 123 456", "description": "Dilluns a Divendres, 9:00 - 18:00" },
+        { "title": "Email", "content": "marta@aquabalance.es", "description": "Resposta en menys de 24h" },
+        { "title": "Ubicació", "content": "Barcelona, Catalunya", "description": "Servei a tota Catalunya" },
+        { "title": "Horari", "content": "Dilluns - Divendres", "description": "9:00 - 18:00" }
+      ]
+    },
+    "form": {
+      "title": "Sol·licita Informació",
+      "sending": "Enviant...",
+      "labels": {
+        "name": "Nom complet *",
+        "email": "Email *",
+        "phone": "Telèfon",
+        "product": "Producte d'interès",
+        "subject": "Assumpte",
+        "message": "Missatge *",
+        "privacy_prefix": "He llegit i accepto la ",
+        "privacy_link": "Política de Privacitat"
+        
+      },
+      "placeholders": {
+        "name": "El teu nom",
+        "email": "el.teu@email.com",
+        "phone": "+34 600 123 456",
+        "subject": "Demostració gratuïta, informació de preus...",
+        "message": "Explica'ns com et podem ajudar..."
+      },
+      
+      "options": {
+        "default": "Selecciona un producte",
+        "kangen": "Kangen",
+        "anespa": "ANESPA",
+        "emGuarde": "emGuarde",
+        "general": "Informació general"
+      },
+      "button": "Enviar Missatge",
+      "toast": {
+        "title": "Missatge enviat!",
+        "description": "Hem rebut la teva consulta. Et contactarem aviat."
+      }
+    },
+    "sideInfo": {
+      "demo": {
+        "title": "Demostració Gratuïta",
+        "description": "Sol·licita una demostració gratuïta a casa teva o a la nostra oficina. Podràs provar l'aigua Kangen i veure la diferència per tu mateix.",
+        "monthlyInfo": "Un cop al mes organitzem una trobada especial a Girona per a tothom qui vulgui descobrir els productes d'Aquabalance. Les places són limitades! Escriu-nos per informar-te de la propera data i ubicació, que anunciarem pròximament.",
+        "points": ["Sense compromís", "Durada: 30-45 minuts", "Inclou degustació d'aigua", "Assessorament personalitzat"]
+      },
+      "service": {
+        "title": "Servei Tècnic",
+        "description": "Oferim servei tècnic especialitzat per a tots els nostres productes amb tècnics certificats per Enagic.",
+        "points": [
+          { "label": "Instal·lació", "value": "Gratuïta" },
+          { "label": "Manteniment", "value": "Inclòs" },
+          { "label": "Suport 24/7", "value": "Disponible" }
+        ]
+      },
+      "response": {
+        "title": "Resposta Ràpida",
+        "description": "Ens comprometem a respondre totes les consultes en menys de 24 hores. Per urgències, pots trucar-nos directament."
+      }
+    },
+    "faq": {
+      "title": "Preguntes Freqüents",
+      "subtitle": "Respostes a les preguntes més comunes sobre els nostres productes i serveis.",
+      "list": [
+        { "question": "Quant costa la instal·lació?", "answer": "La instal·lació és completament gratuïta i inclou la formació d'ús del producte per part dels nostres tècnics certificats." },
+        { "question": "Quina garantia tenen els productes?", "answer": "Tots els productes Enagic tenen garantia oficial del fabricant més el nostre servei tècnic local durant tota la vida útil." },
+        { "question": "Puc provar l'aigua abans de comprar?", "answer": "Sí! Oferim demostracions gratuïtes on podràs provar diferents tipus d'aigua Kangen i veure la diferència per tu mateix." },
+        { "question": "Oferiu finançament?", "answer": "Sí, treballem amb diferents entitats financeres per oferir opcions de finançament adaptades a les teves necessitats." }
+      ]
+    }
+  },
+  "emGuardePage": {
+    "helmet": {
+      "title": "emGuarde - Harmonització Electromagnètica - Aquabalance",
+      "description": "Protegeix-te de la radiació electromagnètica amb emGuarde. Tecnologia patentada per harmonitzar el teu entorn i millorar el teu benestar."
+    },
+    "nav": "emGuarde",
+    "hero": {
+      "title": "emGuarde",
+      "slogan": "Canvia el Teu Entorn, Canvia la Teva Vida!™",
+      "subtitle": "Harmonització d'ones electromagnètiques de freqüència mitjana i alta. emGuarde t'ofereix protecció constant contra la radiació de soroll electromagnètic dels dispositius que t'envolten.",
+      "buyButton": "Sol·licita informació",
+      "infoButton": "Sol·licita informació",
+      "imageAlt": "Dispositiu emGuarde en un entorn domèstic modern"
+    },
+    "benefits": {
+      "title": "Protecció Completa i Silenciosa",
+      "subtitle": "Dissenyat per reduir els efectes negatius de la radiació emesa per dispositius electrònics, sense interferir en la teva vida diària.",
+      "list": [
+        { "icon": "RadioTower", "title": "8 Metres de Defensa", "description": "Suprimeix eficaçment la radiació de soroll electromagnètic (3MHz - 1GHz) en un radi de 4 metres, creant una bombolla de protecció." },
+        { "icon": "Shield", "title": "Protecció Silenciosa", "description": "La seva tecnologia patentada aconsegueix un ambient equilibrat i harmoniós sense sorolls ni interrupcions." },
+        { "icon": "Zap", "title": "Tecnologia Patentada", "description": "Capes múltiples de freqüències harmòniques programades estratègicament per neutralitzar freqüències específiques." },
+        { "icon": "WifiOff", "title": "Sense Interrupció de WiFi", "description": "No interfereix amb cap senyal de telecomunicacions, assegurant que els teus dispositius funcionin perfectament." }
+      ]
+    },
+    "features": {
+      "title": "Característiques Clau",
+      "list": [
+        { "title": "Radi de Cobertura", "value": "4 metres (8m de diàmetre)" },
+        { "title": "Endolla i Llestos", "value": "No requereix manteniment" },
+        { "title": "Llarga Vida Útil", "value": "Mínim de 5 anys" },
+        { "title": "Garantia Oficial", "value": "2 anys de garantia" }
+      ]
+    },
+    "specs": {
+      "title": "Especificacions del Producte",
+      "list": [
+        { "label": "Model", "value": "EM001" },
+        { "label": "Voltatge (V)", "value": "DC 5V (tensió de sortida total)" },
+        { "label": "Entrada (A)", "value": "2A-6A (port USB únic)" },
+        { "label": "Cobertura (m)", "value": "4 metres de radi / 8 metres de diàmetre" },
+        { "label": "Potència (W)", "value": "0.5" },
+        { "label": "Pes Net (g)", "value": "430" },
+        { "label": "Dimensions (mm)", "value": "200 x 100 x 50" },
+        { "label": "Facilitat d'Ús", "value": "Completament automàtica" }
+      ]
+    },
+    "certifications": {
+      
+      "title": "Certificacions i Compliment",
+      "items": ["Compliment CE certificat per SGS", "Compliment FCC certificat per SGS", "Compliment RoHS certificat per SGS"]
+    },
+    "video": {
+      "title": "emGuarde en Acció",
+      "subtitle": "Descobreix com el nostre harmonitzador d'ones electromagnètiques protegeix el teu entorn en aquest breu vídeo."
+    }
+    
+  },
+  "footer": {
+    "slogan": "Transforma la teva salut amb la millor aigua, directament des de la teva aixeta.",
+    "productsTitle": "Productes",
+    "companyTitle": "Empresa",
+    "testimonialsLink": "Testimonis",
+    "copyright": "Aquabalance. Distribuïdor Oficial Enagic®.",
+    "privacyPolicy": "Política de Privacitat",
+    "legalNotice": "Avís Legal",
+    "cookiesPolicy": "Política de Galetes",
+    "segueix-nos":"Segueix-nos"
+  },
+
+  "aiAssistant": {
+    "mainTitle": "No saps quina aigua és per a tu?",
+    "mainSubtitle": "Deixa que el nostre Assistent de Benestar IA creï un pla personalitzat per a tu en segons.",
+    "question1": "Quin és el teu principal objectiu de benestar?",
+    "options1": ["Més energia i vitalitat", "Millorar la pell i el cabell", "Neteja ecològica"],
+    "question2": "Com descriuries el teu nivell d'activitat física?",
+    "options2": ["Baix / Sedentari", "Moderat / Actiu", "Alt / Esportista"],
+    "loadingText": "Analitzant el teu estil de vida...",
+    "resultsTitle": "El Teu Pla d'Aigua Personalitzat",
+    "resultsTitleBeauty": "El Teu Pla de Bellesa Personalitzat",
+    "resultsTitleSport": "El Teu Pla de Rendiment Esportiu",
+    "recMorning": "Comença el dia amb Aigua Kangen® (pH 9.5) per energitzar i alcalinitzar el teu cos.",
+    "recBeauty": "Fes servir l'Aigua de Bellesa (pH 6.0) com a tònic facial per una pell radiant.",
+    "recCleaning": "Neteja fruites i verdures amb Aigua Forta Kangen® (pH 11.0) per eliminar pesticides.",
+    "recBeautyPriority": "La teva prioritat és la pell. Fes de l'Aigua de Bellesa (pH 6.0) el teu aliat diari com a tònic i per al cabell.",
+    "recSportPriority": "Hidratació superior abans i després de l'entrenament amb Aigua Kangen® (pH 9.5) per millorar la recuperació.",
+    "ctaButton": "Vull una Demo Gratuïta",
+    "resetButton": "Començar de nou",
+    "contactUsButton": "Mes informació"
+  },
+  "homePage": {
+    "helmet": {
+      "title": "AquaBalance | Aigua Ionitzada Kangen® per a la teva Salut",
+      "description": "Descobreix els sistemes d'aigua Kangen® i Anespa d'Enagic. Transforma l'aigua de casa teva en una font de salut, bellesa i benestar. Consulta'ns avui."
+    }
+  }
+  }
+

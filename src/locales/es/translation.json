@@ -1,0 +1,446 @@
+{
+    "nav": {
+      "home": "Inicio",
+      "kangen": "Leveluk k8",
+      "anespa": "Anespa DX",
+      "emGuarde": "emGuarde",
+      "benefits": "Beneficios",
+      "contact": "Contacto"
+    },
+    "helmet": {
+      "title": "Aquabalance - Pura, Saludable, Vital",
+      "description": "Descubre cómo la tecnología de ionización de agua de Aquabalance puede mejorar tu salud, bienestar y hogar."
+    },
+    "hero": {
+      "title1": "Cambia tu agua.",
+      "title2": "Cambia tu vida.",
+      "subtitle1": "Yo también quería tener más energía y salud, no solo por mí, sino para cuidar mejor a los de casa.",
+      "subtitle2": "En Aquabalance encontrarás demostraciones personalizadas, un acompañamiento sincero y los mejores sistemas de agua Kangen® junto con protección constante contra la radiación electromagnética, todo para cuidarte desde el primer día.",
+      "productsBtn": "Ver Productos",
+      "demoBtn": "Pide una Demo",
+      "heroImageAlt": "Mujer sosteniendo un vaso de agua pura con una sonrisa"
+    },
+    "productsPreview": {
+      "title": "Nuestros productos estrella",
+      "subtitle": "Tecnología japonesa de Enagic para transformar tu agua y tu experiencia de bienestar.",
+      "kangenTitle": "Ionizadores de Agua Kangen®",
+      "kangenDescription": "Transforma el agua corriente en 5 tipos de agua con propiedades únicas. Agua alcalina, antioxidante y rica en hidrógeno para tu salud.",
+      "anespaTitle": "Sistema de Ducha ANESPA®",
+      "anespaDescription": "Convierte tu ducha en una experiencia de spa. Filtra el cloro y añade minerales naturales para una piel y cabello saludables.",
+      "emGuardeTitle": "emGuarde",
+      "emGuardeDescription": "Equilibrio y protección frente a la contaminación electromagnética. EmGuarde actúa como un escudo protector frente a las ondas electromagnéticas de media y alta frecuencia, ayudándote a mantener la armonía natural de tu entorno y de tu cuerpo.",
+      "discoverMore": "Descubre más",
+      "kangenImageAlt": "Ionizador de agua Kangen sobre una encimera de cocina moderna",
+      "anespaImageAlt": "Sistema de ducha ANESPA instalado en un baño elegante",
+      "anespaDetailAlt": "Detalle de minerales y agua pura, simbolizando la filtración de ANESPA",
+      "emGuardImageAlt": "Sistema de protecció davant la contaminació electromagnètica"
+    },
+    "testimonial": {
+        "title": "Qué dicen de nosotros",
+        "subtitle": "Experiencias reales de personas que han transformado su vida.",
+        "list": [
+          {
+            "quote": "El agua de la ducha ANESPA es increíble. Mi piel está mucho más suave y mi pelo ya no está tan seco. Es como tener un spa en casa cada día.",
+            "author": "Marc R., Barcelona",
+            "avatar": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d"
+          },
+          {
+            "quote": "Desde que usamos el agua de Aquabalance en casa, hemos notado un cambio muy positivo. Yo sufría psoriasis y ahora ha mejorado muchísimo, lo que me hace sentir segura y feliz.",
+            "author": "Laura A.P y familia, Girona",
+            "avatar": "https://res.cloudinary.com/dvqhfapep/image/upload/v1749389543/samples/upscale-face-1.jpg"
+          },
+          {
+            "quote": "Al principio era escéptico, pero la demostración me convenció. El agua no solo sabe mejor, sino que me siento más hidratado durante todo el día. Muy recomendable.",
+            "author": "Carla G., Tarragona",
+            "avatar": "https://images.unsplash.com/photo-1494790108377-be9c29b29330"
+          }
+        ]
+    },
+    "kangenPage": {
+    "helmet": {
+      "title": "Ionizadores de Agua Kangen® - Aquabalance",
+      "description": "Descubre los ionizadores de agua Kangen de Enagic. 5 tipos de agua con propiedades únicas para la salud, belleza y limpieza."
+    },
+    "hero": {
+      "title": "Ionizadores de Agua",
+      "subtitle": "Tecnología japonesa de electrólisis que transforma el agua corriente en 5 tipos de agua con propiedades únicas para la salud, belleza y limpieza.",
+      "imageAlt": "Ionizador de agua Kangen instalado en la cocina",
+      "buyButton": "Solicita información"
+    },
+    "waterTypes": {
+      "title": "5 Tipos de Agua, Infinitas Posibilidades",
+      "subtitle": "Cada tipo de agua tiene propiedades específicas y usos únicos para mejorar tu salud, belleza y vida cotidiana.",
+      "usesLabel": "Usos principales:",
+      "list": [
+        {
+          "name": "Agua Kangen® (pH 8.5-9.5)",
+          "color": "bg-blue-500",
+          "description": "Agua alcalina para beber a diario. Rica en hidrógeno y antioxidantes.",
+          "uses": ["Beber", "Cocinar", "Preparar té y café"]
+        },
+        {
+          "name": "Agua Neutra (pH 7.0)",
+          "color": "bg-green-500",
+          "description": "Agua pura para medicamentos y alimentación de bebés.",
+          "uses": ["Medicamentos", "Alimentación infantil"]
+        },
+        {
+          "name": "Agua de Belleza (pH 4.0-6.0)",
+          "color": "bg-yellow-500",
+          "description": "Agua ácida suave para el cuidado de la piel y el cabello.",
+          "uses": ["Cuidado facial", "Cabello", "Plantas"]
+        },
+        {
+          "name": "Agua Fuerte Kangen® (pH 11.0+)",
+          "color": "bg-purple-500",
+          "description": "Agua alcalina fuerte para limpieza sin químicos.",
+          "uses": ["Limpieza", "Desengrasar", "Frutas y verduras"]
+        },
+        {
+          "name": "Agua Ácida Fuerte (pH 2.5)",
+          "color": "bg-red-500",
+          "description": "Agua ácida para desinfección e higiene.",
+          "uses": ["Desinfección", "Higiene", "Limpieza profunda"]
+        }
+      ]
+    },
+    "howItWorks": {
+      "title": "Cómo la tecnología transforma tu agua",
+      "subtitle": "El proceso de ionización de Enagic es una obra de ingeniería japonesa diseñada para enriquecer tu agua en tres pasos clave.",
+      "imageAlt": "Diagrama del proceso de electrólisis del agua Kangen",
+      "steps": [
+        {
+          "title": "1. Electrólisis Potenciada",
+          "description": "El agua atraviesa placas de titanio de grado médico recubiertas de platino, separándola en corrientes alcalinas y ácidas y activando sus propiedades."
+        },
+        {
+          "title": "2. Enriquecimiento con Hidrógeno",
+          "description": "Durante la electrólisis se genera hidrógeno molecular (H₂), un potente antioxidante que ayuda a neutralizar los radicales libres de tu cuerpo."
+        },
+        {
+          "title": "3. Micro-estructuración",
+          "description": "El proceso reduce el tamaño de los clústeres de moléculas de agua, facilitando una hidratación más rápida y eficiente a nivel celular."
+        }
+      ]
+    }
+  },
+  "anespaPage": {
+    "helmet": {
+      "title": "Sistema de Ducha ANESPA® - Aquabalance",
+      "description": "Descubre el sistema de ducha ANESPA de Enagic. Transforma tu ducha en una experiencia de spa con minerales naturales japoneses."
+    },
+    "hero": {
+      "title": "Sistema de Ducha",
+      "subtitle": "Transforma tu ducha diaria en una experiencia de balneario japonés. Filtra el cloro y añade minerales naturales para una piel y cabello saludables.",
+      "buyButton": "Solicita información",
+      "infoButton": "Solicita información",
+      "imageAlt": "Sistema de ducha ANESPA en un baño moderno y elegante"
+    },
+    "benefits": {
+      "title": "Beneficios del Sistema ANESPA®",
+      "subtitle": "Descubre cómo ANESPA puede transformar tu rutina de baño en un momento de cuidado personal y relajación profunda.",
+      "list": [
+        { "title": "Piel Profundamente Hidratada", "description": "Los minerales naturales penetran profundamente, dejando la piel suave y sedosa." },
+        { "title": "Cabello Brillante y Sano", "description": "Elimina la sequedad y da un brillo natural al cabello." },
+        { "title": "Eliminación del Cloro", "description": "Filtra el 100% del cloro y otros químicos dañinos del agua." },
+        { "title": "Experiencia de Spa", "description": "Convierte la ducha diaria en un momento de relajación y bienestar." }
+      ]
+    },
+    "howItWorks": {
+      "title": "¿Cómo funciona ANESPA?",
+      "subtitle": "Tecnología japonesa avanzada que combina un filtrado superior con minerales naturales de fuentes termales.",
+      "imageAlt": "Diagrama del funcionamiento del sistema ANESPA",
+      "steps": [
+        { "title": "Filtrado Avanzado", "description": "Elimina el 100% del cloro y otras impurezas del agua del baño." },
+        { "title": "Mineralización Natural", "description": "Añade minerales naturales de fuentes termales japonesas al agua." },
+        { "title": "Ionización", "description": "Crea agua mineral ionizada que penetra mejor en la piel y el cabello." }
+      ]
+    },
+    "features": {
+      "title": "Características principales",
+      "subtitle": "ANESPA está diseñado para ofrecer la máxima calidad y comodidad en tu experiencia de ducha diaria.",
+      "imageAlt": "Persona disfrutando de una ducha con sistema ANESPA",
+      "list": [
+        "Minerales de fuentes termales japonesas",
+        "Filtrado avanzado de impurezas",
+        "Instalación fácil y rápida",
+        "Mantenimiento mínimo",
+        "Apto para toda la familia",
+        "Ideal para pieles sensibles"
+      ]
+    },
+    "testimonial": {
+      "title": "Ideal para pieles sensibles",
+      "quote": "\"Desde que uso ANESPA, mi piel con eczema ha mejorado notablemente. El agua sin cloro y con minerales naturales ha marcado una diferencia increíble. Ahora la ducha es mi momento favorito del día.\"",
+      "author": "Maria González",
+      "role": "Usuaria ANESPA",
+      "imageAlt": "Testimonio de usuaria satisfecha con ANESPA"
+    },
+    "cta": {
+      "title": "Transforma tu ducha hoy",
+      "subtitle": "Experimenta la diferencia de una ducha con minerales naturales japoneses. Tu piel y tu cabello te lo agradecerán."
+    }
+  },
+  "benefitsPage": {
+    "helmet": {
+      "title": "Beneficios para la Salud y Belleza - Aquabalance",
+      "description": "Descubre los beneficios del agua Kangen y el sistema ANESPA para la salud, belleza y deporte. Ideal para familias, deportistas y pieles sensibles."
+    },
+    "hero": {
+      "title1": "Beneficios para la",
+      "title_health": "Salud",
+      "title2": ", la",
+      "title_beauty": "Belleza",
+      "title3": " y el",
+      "title_sports": "Deporte",
+      "subtitle": "Descubre cómo la tecnología Enagic puede transformar tu vida cotidiana con beneficios científicamente probados para todo el cuerpo."
+    },
+    "health": {
+      "title": "Beneficios para la Salud",
+      "subtitle": "El agua Kangen ofrece propiedades únicas que contribuyen al bienestar general y la prevención de enfermedades.",
+      "list": [
+        { "title": "Salud Cardiovascular", "description": "El agua alcalina ayuda a mejorar la circulación y a reducir la presión arterial." },
+        { "title": "Sistema Inmunológico", "description": "Los antioxidantes naturales refuerzan las defensas del cuerpo contra enfermedades." },
+        { "title": "Energía y Vitalidad", "description": "Mejor hidratación celular que se traduce en más energía durante el día." }
+      ],
+      "extraInfo": {
+        "title": "Propiedades Antioxidantes",
+        "description": "El agua Kangen contiene hidrógeno molecular activo que actúa como un potente antioxidante natural, neutralizando los radicales libres responsables del envejecimiento celular y diversas enfermedades.",
+        "points": ["Neutraliza radicales libres", "Retrasa el envejecimiento celular", "Mejora la función celular"],
+        "imageAlt": "Diagrama de los antioxidantes en el agua Kangen"
+      }
+    },
+    "beauty": {
+      "title": "Beneficios para la Belleza",
+      "subtitle": "El sistema ANESPA y el agua de belleza Kangen ofrecen un cuidado natural para la piel y el cabello.",
+      "list": [
+        { "title": "Piel Radiante", "description": "Hidratación profunda que reduce los signos de envejecimiento y mejora la elasticidad." },
+        { "title": "Cabello Saludable", "description": "Eliminación del cloro que deja el cabello más suave, brillante y manejable." },
+        { "title": "Protección Natural", "description": "Minerales naturales que protegen la piel de los agentes externos dañinos." }
+      ],
+      "extraInfo": {
+        "title1": "Antes y Después",
+        "description1": "Los usuarios de ANESPA experimentan cambios visibles en su piel y cabello en pocas semanas de uso regular.",
+        "imageAlt1": "Comparación antes y después de usar ANESPA",
+        "title2": "Testimonios Reales",
+        "testimonials": [
+          { "quote": "\"Mi piel nunca había estado tan suave. El eczema ha desaparecido por completo.\"", "author": "- Anna M." },
+          { "quote": "\"Mi pelo tiene un brillo natural que nunca antes había tenido.\"", "author": "- Carla R." }
+        ]
+      }
+    },
+    "sports": {
+      "title": "Beneficios para el Deporte",
+      "subtitle": "Los deportistas profesionales y amateurs descubren ventajas significativas en el rendimiento y la recuperación.",
+      "list": [
+        { "title": "Recuperación Rápida", "description": "El agua alcalina ayuda a neutralizar el ácido láctico después del ejercicio." },
+        { "title": "Hidratación Superior", "description": "Moléculas más pequeñas para una absorción más rápida y eficiente." },
+        { "title": "Rendimiento Mejorado", "description": "Mejor oxigenación celular que aumenta la resistencia y la fuerza." }
+      ],
+      "extraInfo": {
+        "title": "Utilizado por Deportistas Profesionales",
+        "description": "Muchos atletas de élite usan agua Kangen para mejorar su rendimiento y acelerar la recuperación después del entrenamiento.",
+        "points": ["Hidratación 6 veces más eficiente", "Reducción del tiempo de recuperación", "Mejor resistencia y fuerza"],
+        "imageAlt": "Deportista profesional bebiendo agua Kangen"
+      }
+    },
+    "audience": {
+      "title": "¿Para quién es ideal?",
+      "subtitle": "Nuestros productos benefician a una amplia variedad de personas y necesidades específicas.",
+      "list": [
+        { "title": "Familias", "description": "Agua pura y saludable para todos los miembros de la familia, desde bebés hasta personas mayores." },
+        { "title": "Deportistas", "description": "Hidratación superior y recuperación más rápida para mejorar el rendimiento deportivo." },
+        { "title": "Pieles Sensibles", "description": "Ideal para personas con eczemas, psoriasis u otros problemas dermatológicos." },
+        { "title": "Profesionales de la Salud", "description": "Recomendado por médicos y terapeutas por sus beneficios terapéuticos." }
+      ]
+    },
+    "cta": {
+      "pretitle": "Un paso hacia tu bienestar",
+      "title": "¿Preparado/a para sentir la diferencia?",
+      "description": "Solicita una demostración gratuita y sin compromiso. Te explicaré personalmente cómo puedes mejorar tu salud, belleza y hogar con el agua adecuada.",
+      "button": "Pide mas informacion",
+      "imageAlt": "Persona sonriente ofreciendo una demostración de producto"
+    }
+  },
+  "contactPage": {
+    "helmet": {
+      "title": "Contacto - Aquabalance",
+      "description": "Contacta con nosotros para una demostración gratuita, información de productos o cualquier otra consulta. Estamos aquí para ayudarte."
+    },
+    "hero": {
+      "title": "Contacta con ",
+      "subtitle": "Estamos aquí para ayudarte a encontrar la solución perfecta para tu agua. Solicita una demostración gratuita o resuelve tus dudas.",
+      "nosaltres": "Nosotros"
+    },
+    "info": {
+      "list": [
+        { "title": "Teléfono", "content": "+34 600 123 456", "description": "Lunes a Viernes, 9:00 - 18:00" },
+        { "title": "Email", "content": "marta@aquabalance.es", "description": "Respuesta en menos de 24h" },
+        { "title": "Ubicación", "content": "Barcelona, Cataluña", "description": "Servicio en toda Cataluña" },
+        { "title": "Horario", "content": "Lunes - Viernes", "description": "9:00 - 18:00" }
+      ]
+    },
+    "form": {
+      "title": "Solicita Información",
+      "sending": "Enviando...",
+      "labels": {
+        "name": "Nombre completo *",
+        "email": "Email *",
+        "phone": "Teléfono",
+        "product": "Producto de interés",
+        "subject": "Asunto",
+        "message": "Mensaje *",
+        "privacy_prefix": "He leído y acepto la ",
+      "privacy_link": "Política de Privacidad"
+      
+      },
+      "placeholders": {
+        "name": "Tu nombre",
+        "email": "tu@email.com",
+        "phone": "+34 600 123 456",
+        "subject": "Demostración gratuita, información de precios...",
+        "message": "Cuéntanos cómo te podemos ayudar..."
+      },
+      "options": {
+        "default": "Selecciona un producto",
+        "kangen": "Kangen",
+        "anespa": "ANESPA",
+        "emGuarde": "emGuarde",
+        "general": "Información general"
+      },
+      "button": "Enviar Mensaje",
+      "toast": {
+        "title": "¡Mensaje enviado!",
+        "description": "Hemos recibido tu consulta. Te contactaremos pronto."
+      }
+    },
+    "sideInfo": {
+      "demo": {
+        "title": "Demostración Gratuita",
+        "description": "Solicita una demostración gratuita en tu casa o en nuestra oficina. Podrás probar el agua Kangen y ver la diferencia por ti mismo.",
+        "monthlyInfo": "Una vez al mes organizamos un encuentro especial en Girona para todo el que quiera descubrir los productos de Aquabalance. ¡Las plazas son limitadas! Escríbenos para informarte de la próxima fecha y ubicación, que anunciaremos próximamente.",
+        "points": [       "Sin compromiso",
+        "Duración: 30-45 minutos",
+        "Incluye degustación de agua",
+        "Asesoramiento personalizado"]
+      },
+      "service": {
+        "title": "Servicio Técnico",
+        "description": "Ofrecemos servicio técnico especializado para todos nuestros productos con técnicos certificados por Enagic.",
+        "points": [
+          { "label": "Instalación", "value": "Gratuita" },
+          { "label": "Mantenimiento", "value": "Incluido" },
+          { "label": "Soporte 24/7", "value": "Disponible" }
+        ]
+      },
+      "response": {
+        "title": "Respuesta Rápida",
+        "description": "Nos comprometemos a responder todas las consultas en menos de 24 horas. Para urgencias, puedes llamarnos directamente."
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "subtitle": "Respuestas a las preguntas más comunes sobre nuestros productos y servicios.",
+      "list": [
+        { "question": "¿Cuánto cuesta la instalación?", "answer": "La instalación es completamente gratuita e incluye la formación de uso del producto por parte de nuestros técnicos certificados." },
+        { "question": "¿Qué garantía tienen los productos?", "answer": "Todos los productos Enagic tienen garantía oficial del fabricante más nuestro servicio técnico local durante toda la vida útil." },
+        { "question": "¿Puedo probar el agua antes de comprar?", "answer": "¡Sí! Ofrecemos demostraciones gratuitas donde podrás probar diferentes tipos de agua Kangen y ver la diferencia por ti mismo." },
+        { "question": "¿Ofrecéis financiación?", "answer": "Sí, trabajamos con diferentes entidades financieras para ofrecer opciones de financiación adaptadas a tus necesidades." }
+      ]
+    }
+  },
+  "emGuardePage": {
+    "helmet": {
+      "title": "emGuarde - Armonización Electromagnética - Aquabalance",
+      "description": "Protégete de la radiación electromagnética con emGuarde. Tecnología patentada para armonizar tu entorno y mejorar tu bienestar."
+    },
+    "nav": "emGuarde",
+    "hero": {
+      "title": "emGuarde",
+      "slogan": "¡Cambia Tu Entorno, Cambia Tu Vida!™",
+      "subtitle": "Armonización de ondas electromagnéticas de frecuencia media y alta. emGuarde te ofrece protección constante contra la radiación de ruido electromagnético de los dispositivos que te rodean.",
+      "buyButton": "Solicita información",
+      "infoButton": "Solicita información",
+      "imageAlt": "Dispositivo emGuarde en un entorno doméstico moderno"
+    },
+    "benefits": {
+      "title": "Protección Completa y Silenciosa",
+      "subtitle": "Diseñado para reducir los efectos negativos de la radiación emitida por dispositivos electrónicos, sin interferir en tu vida diaria.",
+      "list": [
+        { "icon": "RadioTower", "title": "8 Metros de Defensa", "description": "Suprime eficazmente la radiación de ruido electromagnético (3MHz - 1GHz) en un radio de 4 metros, creando una burbuja de protección." },
+        { "icon": "Shield", "title": "Protección Silenciosa", "description": "Su tecnología patentada logra un ambiente equilibrado y armonioso sin ruidos ni interrupciones." },
+        { "icon": "Zap", "title": "Tecnología Patentada", "description": "Múltiples capas de frecuencias armónicas programadas estratégicamente para neutralizar frecuencias específicas." },
+        { "icon": "WifiOff", "title": "Sin Interrupción de WiFi", "description": "No interfiere con ninguna señal de telecomunicaciones, asegurando que tus dispositivos funcionen perfectamente." }
+      ]
+    },
+    "features": {
+      "title": "Características Clave",
+      "list": [
+        { "title": "Alcance de Cobertura", "value": "4 metros de radio (8m de diámetro)" },
+        { "title": "Conectar y Usar", "value": "No requiere mantenimiento" },
+        { "title": "Larga Vida Útil", "value": "Mínimo de 5 años" },
+        { "title": "Garantía Oficial", "value": "2 años de garantía" }
+      ]
+    },
+    "specs": {
+      "title": "Especificaciones del Producto",
+      "list": [
+        { "label": "Modelo", "value": "EM001" },
+        { "label": "Voltaje (V)", "value": "DC 5V (tensión de salida total)" },
+        { "label": "Entrada (A)", "value": "2A-6A (puerto USB único)" },
+        { "label": "Cobertura (m)", "value": "4 metros de radio / 8 metros de diámetro" },
+        { "label": "Potencia (W)", "value": "0.5" },
+        { "label": "Peso Neto (g)", "value": "430" },
+        { "label": "Dimensiones (mm)", "value": "200 x 100 x 50" },
+        { "label": "Facilidad de Uso", "value": "Completamente automática" }
+      ]
+    },
+    "certifications": {
+      
+      "title": "Certificaciones y Cumplimiento",
+      "items": ["Cumplimiento CE certificado por SGS", "Cumplimiento FCC certificado por SGS", "Cumplimiento RoHS certificado por SGS"]
+    },
+    "video": {
+      "title": "emGuarde en Acción",
+      "subtitle": "Descubre cómo nuestro armonizador de ondas electromagnéticas protege tu entorno en este breve vídeo."
+    }
+  },
+  "footer": {
+    "slogan": "Transforma tu salud con la mejor agua, directamente desde tu grifo.",
+    "productsTitle": "Productos",
+    "companyTitle": "Empresa",
+    "testimonialsLink": "Testimonios",
+    "copyright": "Aquabalance. Distribuidor Oficial Enagic®.",
+    "privacyPolicy": "Política de Privacidad",
+    "legalNotice": "Aviso Legal",
+    "cookiesPolicy": "Política de Cookies",
+    "segueix-nos":"Siguenos"
+  },
+
+  "aiAssistant": {
+    "mainTitle": "¿No sabes qué agua es para ti?",
+    "mainSubtitle": "Deja que nuestro Asistente de Bienestar IA cree un plan personalizado para ti en segundos.",
+    "question1": "¿Cuál es tu principal objetivo de bienestar?",
+    "options1": ["Más energía y vitalidad", "Mejorar la piel y el cabello", "Limpieza ecológica"],
+    "question2": "¿Cómo describirías tu nivel de actividad física?",
+    "options2": ["Bajo / Sedentario", "Moderado / Activo", "Alto / Deportista"],
+    "loadingText": "Analizando tu estilo de vida...",
+    "resultsTitle": "Tu Plan de Agua Personalizado",
+    "resultsTitleBeauty": "Tu Plan de Belleza Personalizado",
+    "resultsTitleSport": "Tu Plan de Rendimiento Deportivo",
+    "recMorning": "Empieza el día con Agua Kangen® (pH 9.5) para energizar y alcalinizar tu cuerpo.",
+    "recBeauty": "Usa el Agua de Belleza (pH 6.0) como tónico facial para una piel radiante.",
+    "recCleaning": "Limpia frutas y verduras con Agua Fuerte Kangen® (pH 11.0) para eliminar pesticidas.",
+    "recBeautyPriority": "Tu prioridad es la piel. Haz del Agua de Belleza (pH 6.0) tu aliado diario como tónico y para el cabello.",
+    "recSportPriority": "Hidratación superior antes y después del entrenamiento con Agua Kangen® (pH 9.5) para mejorar la recuperación.",
+    "ctaButton": "Quiero una Demo Gratuita",
+    "resetButton": "Empezar de nuevo",
+    "contactUsButton": "Mas informacion"
+  },
+  "homePage": {
+    "helmet": {
+      "title": "AquaBalance | Agua Ionizada Kangen® para tu Salud",
+      "description": "Descubre los sistemas de agua Kangen® y Anespa de Enagic. Transforma el agua de tu hogar en una fuente de salud, belleza y bienestar. Consúltanos hoy."
+    }
+  }
+  }
